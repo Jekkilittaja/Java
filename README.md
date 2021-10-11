@@ -1,2 +1,2 @@
 # Java
-Java tehtäviä TMC Netbeans ympäristössä
+Muutama esimerkki MOOC Java tehtävistä, jotka on tehty TMC Netbeans ympäristössä
